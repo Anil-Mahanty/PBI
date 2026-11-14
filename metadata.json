@@ -1,0 +1,6 @@
+{
+  "name": "Northstar BI — Commercial KPI Report",
+  "description": "Interactive Power BI-style KPI tracking report with multi-dimensional slicers, cross-filtering, hierarchy matrices, and drill-through inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
